@@ -1,0 +1,31 @@
+package ph.edu.wvsu.landas.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val TealPrimary = Color(0xFF0D5C63)
+val TealDark = Color(0xFF073B40)
+val TealLight = Color(0xFF5FA8A8)
+val TealSoft = Color(0xFFE4F1EF)
+val Terracotta = Color(0xFFE76F51)
+val SafetyOrange = Color(0xFFF4A261)
+val Gold = Color(0xFFE9C46A)
+val Navy = Color(0xFF102A43)
+val Ink = Color(0xFF1F2933)
+val MutedInk = Color(0xFF61707D)
+val Cloud = Color(0xFFF4F7F6)
+val Surface = Color(0xFFFFFFFF)
+val SurfaceMuted = Color(0xFFEDF2F0)
+val Success = Color(0xFF2D6A4F)
+val SuccessSoft = Color(0xFFD8F3DC)
+val Warning = Color(0xFFB7791F)
+val WarningSoft = Color(0xFFFFF3D6)
+val Danger = Color(0xFFD62828)
+val DangerDark = Color(0xFF9D0208)
+val DangerSoft = Color(0xFFFFE5E5)
+val InfoBlue = Color(0xFF276FBF)
+val InfoSoft = Color(0xFFE3F2FD)
+
+val DarkBackground = Color(0xFF0B1416)
+val DarkSurface = Color(0xFF132326)
+val DarkSurfaceMuted = Color(0xFF1B3135)
+val DarkOutline = Color(0xFF315158)
